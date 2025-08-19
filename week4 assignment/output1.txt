@@ -1,4 +1,0 @@
-This is the modified version
-HELLO WORLD!!!
-THIS IS MY PYTHON ASSIGNMENT.
-I HOPE I GOT IT.
